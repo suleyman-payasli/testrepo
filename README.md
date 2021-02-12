@@ -1,2 +1,3 @@
 # testrepo
-Test repository for learning GitHub.
+
+*It is a markdown file in this repository.*
